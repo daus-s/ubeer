@@ -2,8 +2,9 @@
 ### Daus Carmichael
 
 
-https://github.com/daus-s/ubeer
-#### default user for demo:
+[https://github.com/daus-s/ubeer
+](https://ubeer.netlify.app/)#
+### default user for demo:
 username: dauscarmichael@gmail.com (thats mine)
 password: PogChamp                 (thats not mine)
 
