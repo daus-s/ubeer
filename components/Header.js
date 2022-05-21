@@ -6,7 +6,7 @@ export default function Header()
 
     <HeadElem>
         <Image>
-            <img src="https://raw.githubusercontent.com/daus-s/ubeer/f544805e612b8f40e2dbbecf7231b6531b24d788/ubeer/logo.png" width="360"></img>
+            <img src="https://raw.githubusercontent.com/daus-s/ubeer/main/logo.png" width="360"></img>
         </Image>
         <HeaderWrapper>
             <Links>
